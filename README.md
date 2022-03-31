@@ -1,2 +1,2 @@
 # sample_project
-This is my first try
+This is a sample project
